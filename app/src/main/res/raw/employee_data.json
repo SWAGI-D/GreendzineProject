@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "EMP ID": "1",
+      "email": "arjun1234@somemail.com",
+      "Name": "Arjun",
+      "DOB": "16-11-2000",
+      "Role": "Software Engineer",
+      "password": "hello"
+    },
+    {
+      "EMP ID": "2",
+      "email": "mahesh9876@somemail.com",
+      "Name": "Mahesh",
+      "DOB": "15-01-2000",
+      "Role": "Web Developer",
+      "password": "hello"
+    }
+  ]
+}
